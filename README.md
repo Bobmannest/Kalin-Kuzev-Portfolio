@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio website which showcases my personal skills, qualifications, projects, and experiences.
 
-### Website Link => [https://BobMannest.github.io/Kalin-Kuzev-Portfolio/]
+### Website Link => [https://BobMannest.github.io/Kalin-Kuzev-Portfolio]
 
 ## ✨ Features
 
